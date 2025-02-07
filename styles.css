@@ -1,0 +1,39 @@
+.table2 {
+    border-spacing: 0px 20px;
+}
+.box1{
+    text-align: center;
+    background: darkred;
+}
+
+.box2{
+    text-align: center;
+    background: deeppink;
+}
+
+.box3{
+    text-align: center;
+    background: brown;
+}
+
+.box_text_color{
+    color: white;
+    padding: 10px;
+    /* remove margins*/
+
+}
+
+.td_image_width{
+    width: 570px;
+}
+
+p{
+    font-family: "Arial";
+    font-size: 16px;
+    color: #3d3d3d;
+}
+
+.table2 img{
+    width: 570px;
+    height: 400px;
+}
